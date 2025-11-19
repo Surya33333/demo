@@ -14,21 +14,5 @@
     { "id": 12, "name": "Sony", "industry": "Electronics", "location": "Japan" },
     { "id": 13, "name": "Toyota", "industry": "Automotive", "location": "Japan" },
     { "id": 14, "name": "Honda", "industry": "Automotive", "location": "Japan" },
-    { "id": 15, "name": "Nvidia", "industry": "Semiconductors", "location": "USA" },
-    { "id": 16, "name": "Adobe", "industry": "Software", "location": "USA" },
-    { "id": 17, "name": "Salesforce", "industry": "Software", "location": "USA" },
-    { "id": 18, "name": "Uber", "industry": "Ride Sharing", "location": "USA" },
-    { "id": 19, "name": "Lyft", "industry": "Ride Sharing", "location": "USA" },
-    { "id": 20, "name": "Stripe", "industry": "Fintech", "location": "USA" },
-    { "id": 21, "name": "PayPal", "industry": "Fintech", "location": "USA" },
-    { "id": 22, "name": "SpaceX", "industry": "Aerospace", "location": "USA" },
-    { "id": 23, "name": "Boeing", "industry": "Aerospace", "location": "USA" },
-    { "id": 24, "name": "Airbus", "industry": "Aerospace", "location": "France" },
-    { "id": 25, "name": "Wipro", "industry": "IT Services", "location": "India" },
-    { "id": 26, "name": "TCS", "industry": "IT Services", "location": "India" },
-    { "id": 27, "name": "Infosys", "industry": "IT Services", "location": "India" },
-    { "id": 28, "name": "HCL", "industry": "IT Services", "location": "India" },
-    { "id": 29, "name": "Accenture", "industry": "Consulting", "location": "Ireland" },
-    { "id": 30, "name": "Deloitte", "industry": "Consulting", "location": "USA" }
   ]
 }
