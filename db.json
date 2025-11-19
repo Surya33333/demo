@@ -1,22 +1,57 @@
 {
   "companies": [
-    {
-      "id": 1,
-      "name": "Frontlines Media",
-      "location": "Hyderabad",
-      "industry": "Media"
-    },
-    {
-      "id": 2,
-      "name": "Google",
-      "location": "Bangalore",
-      "industry": "Tech"
-    },
-    {
-      "id": 3,
-      "name": "Infosys",
-      "location": "Chennai",
-      "industry": "IT Services"
-    }
+    [
+  { "id": 1, "name": "Google", "industry": "Technology", "location": "USA" },
+  { "id": 2, "name": "Microsoft", "industry": "Technology", "location": "USA" },
+  { "id": 3, "name": "Apple", "industry": "Consumer Electronics", "location": "USA" },
+  { "id": 4, "name": "Amazon", "industry": "E-commerce", "location": "USA" },
+  { "id": 5, "name": "Meta", "industry": "Social Media", "location": "USA" },
+  { "id": 6, "name": "Netflix", "industry": "Entertainment", "location": "USA" },
+  { "id": 7, "name": "Tesla", "industry": "Automotive", "location": "USA" },
+  { "id": 8, "name": "IBM", "industry": "Technology", "location": "USA" },
+  { "id": 9, "name": "Intel", "industry": "Semiconductors", "location": "USA" },
+  { "id": 10, "name": "Oracle", "industry": "Software", "location": "USA" },
+  { "id": 11, "name": "Samsung", "industry": "Electronics", "location": "South Korea" },
+  { "id": 12, "name": "Sony", "industry": "Electronics", "location": "Japan" },
+  { "id": 13, "name": "Toyota", "industry": "Automotive", "location": "Japan" },
+  { "id": 14, "name": "Honda", "industry": "Automotive", "location": "Japan" },
+  { "id": 15, "name": "Nvidia", "industry": "Semiconductors", "location": "USA" },
+  { "id": 16, "name": "Adobe", "industry": "Software", "location": "USA" },
+  { "id": 17, "name": "Salesforce", "industry": "Software", "location": "USA" },
+  { "id": 18, "name": "Uber", "industry": "Ride Sharing", "location": "USA" },
+  { "id": 19, "name": "Lyft", "industry": "Ride Sharing", "location": "USA" },
+  { "id": 20, "name": "Stripe", "industry": "Fintech", "location": "USA" },
+  { "id": 21, "name": "PayPal", "industry": "Fintech", "location": "USA" },
+  { "id": 22, "name": "SpaceX", "industry": "Aerospace", "location": "USA" },
+  { "id": 23, "name": "Boeing", "industry": "Aerospace", "location": "USA" },
+  { "id": 24, "name": "Airbus", "industry": "Aerospace", "location": "France" },
+  { "id": 25, "name": "Wipro", "industry": "IT Services", "location": "India" },
+  { "id": 26, "name": "TCS", "industry": "IT Services", "location": "India" },
+  { "id": 27, "name": "Infosys", "industry": "IT Services", "location": "India" },
+  { "id": 28, "name": "HCL", "industry": "IT Services", "location": "India" },
+  { "id": 29, "name": "Accenture", "industry": "Consulting", "location": "Ireland" },
+  { "id": 30, "name": "Deloitte", "industry": "Consulting", "location": "USA" },
+  { "id": 31, "name": "EY", "industry": "Consulting", "location": "UK" },
+  { "id": 32, "name": "PwC", "industry": "Consulting", "location": "UK" },
+  { "id": 33, "name": "KPMG", "industry": "Consulting", "location": "Netherlands" },
+  { "id": 34, "name": "Zoom", "industry": "Communication", "location": "USA" },
+  { "id": 35, "name": "Slack", "industry": "Communication", "location": "USA" },
+  { "id": 36, "name": "Spotify", "industry": "Music Streaming", "location": "Sweden" },
+  { "id": 37, "name": "Flipkart", "industry": "E-commerce", "location": "India" },
+  { "id": 38, "name": "Myntra", "industry": "E-commerce", "location": "India" },
+  { "id": 39, "name": "Zomato", "industry": "Food Delivery", "location": "India" },
+  { "id": 40, "name": "Swiggy", "industry": "Food Delivery", "location": "India" },
+  { "id": 41, "name": "Byju's", "industry": "EdTech", "location": "India" },
+  { "id": 42, "name": "Unacademy", "industry": "EdTech", "location": "India" },
+  { "id": 43, "name": "OpenAI", "industry": "AI Research", "location": "USA" },
+  { "id": 44, "name": "GitHub", "industry": "Software", "location": "USA" },
+  { "id": 45, "name": "GitLab", "industry": "Software", "location": "USA" },
+  { "id": 46, "name": "Alibaba", "industry": "E-commerce", "location": "China" },
+  { "id": 47, "name": "Tencent", "industry": "Technology", "location": "China" },
+  { "id": 48, "name": "Baidu", "industry": "Technology", "location": "China" },
+  { "id": 49, "name": "Siemens", "industry": "Engineering", "location": "Germany" },
+  { "id": 50, "name": "Philips", "industry": "Electronics", "location": "Netherlands" }
+]
+
   ]
 }
