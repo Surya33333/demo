@@ -29,26 +29,6 @@
     { "id": 27, "name": "Infosys", "industry": "IT Services", "location": "India" },
     { "id": 28, "name": "HCL", "industry": "IT Services", "location": "India" },
     { "id": 29, "name": "Accenture", "industry": "Consulting", "location": "Ireland" },
-    { "id": 30, "name": "Deloitte", "industry": "Consulting", "location": "USA" },
-    { "id": 31, "name": "EY", "industry": "Consulting", "location": "UK" },
-    { "id": 32, "name": "PwC", "industry": "Consulting", "location": "UK" },
-    { "id": 33, "name": "KPMG", "industry": "Consulting", "location": "Netherlands" },
-    { "id": 34, "name": "Zoom", "industry": "Communication", "location": "USA" },
-    { "id": 35, "name": "Slack", "industry": "Communication", "location": "USA" },
-    { "id": 36, "name": "Spotify", "industry": "Music Streaming", "location": "Sweden" },
-    { "id": 37, "name": "Flipkart", "industry": "E-commerce", "location": "India" },
-    { "id": 38, "name": "Myntra", "industry": "E-commerce", "location": "India" },
-    { "id": 39, "name": "Zomato", "industry": "Food Delivery", "location": "India" },
-    { "id": 40, "name": "Swiggy", "industry": "Food Delivery", "location": "India" },
-    { "id": 41, "name": "Byju's", "industry": "EdTech", "location": "India" },
-    { "id": 42, "name": "Unacademy", "industry": "EdTech", "location": "India" },
-    { "id": 43, "name": "OpenAI", "industry": "AI Research", "location": "USA" },
-    { "id": 44, "name": "GitHub", "industry": "Software", "location": "USA" },
-    { "id": 45, "name": "GitLab", "industry": "Software", "location": "USA" },
-    { "id": 46, "name": "Alibaba", "industry": "E-commerce", "location": "China" },
-    { "id": 47, "name": "Tencent", "industry": "Technology", "location": "China" },
-    { "id": 48, "name": "Baidu", "industry": "Technology", "location": "China" },
-    { "id": 49, "name": "Siemens", "industry": "Engineering", "location": "Germany" },
-    { "id": 50, "name": "Philips", "industry": "Electronics", "location": "Netherlands" }
+    { "id": 30, "name": "Deloitte", "industry": "Consulting", "location": "USA" }
   ]
 }
