@@ -1,6 +1,5 @@
 {
   "companies": [
-    [
   { "id": 1, "name": "Google", "industry": "Technology", "location": "USA" },
   { "id": 2, "name": "Microsoft", "industry": "Technology", "location": "USA" },
   { "id": 3, "name": "Apple", "industry": "Consumer Electronics", "location": "USA" },
@@ -51,7 +50,5 @@
   { "id": 48, "name": "Baidu", "industry": "Technology", "location": "China" },
   { "id": 49, "name": "Siemens", "industry": "Engineering", "location": "Germany" },
   { "id": 50, "name": "Philips", "industry": "Electronics", "location": "Netherlands" }
-]
-
   ]
 }
