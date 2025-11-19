@@ -1,18 +1,22 @@
 {
   "companies": [
-    { "id": 1, "name": "Google", "industry": "Technology", "location": "USA" },
-    { "id": 2, "name": "Microsoft", "industry": "Technology", "location": "USA" },
-    { "id": 3, "name": "Apple", "industry": "Consumer Electronics", "location": "USA" },
-    { "id": 4, "name": "Amazon", "industry": "E-commerce", "location": "USA" },
-    { "id": 5, "name": "Meta", "industry": "Social Media", "location": "USA" },
-    { "id": 6, "name": "Netflix", "industry": "Entertainment", "location": "USA" },
-    { "id": 7, "name": "Tesla", "industry": "Automotive", "location": "USA" },
-    { "id": 8, "name": "IBM", "industry": "Technology", "location": "USA" },
-    { "id": 9, "name": "Intel", "industry": "Semiconductors", "location": "USA" },
-    { "id": 10, "name": "Oracle", "industry": "Software", "location": "USA" },
-    { "id": 11, "name": "Samsung", "industry": "Electronics", "location": "South Korea" },
-    { "id": 12, "name": "Sony", "industry": "Electronics", "location": "Japan" },
-    { "id": 13, "name": "Toyota", "industry": "Automotive", "location": "Japan" },
-    { "id": 14, "name": "Honda", "industry": "Automotive", "location": "Japan" },
+    {
+      "id": 1,
+      "name": "Frontlines Media",
+      "location": "Hyderabad",
+      "industry": "Media"
+    },
+    {
+      "id": 2,
+      "name": "Google",
+      "location": "Bangalore",
+      "industry": "Tech"
+    },
+    {
+      "id": 3,
+      "name": "Infosys",
+      "location": "Chennai",
+      "industry": "IT Services"
+    }
   ]
 }
